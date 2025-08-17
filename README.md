@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Arezki  
 
-<!--
-**Cxqi/Cxqi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Beginner Web Developer** passionate about building clean and modern websites.  
 
-Here are some ideas to get you started:
+## 💻 Languages & Skills
+- 🌐 HTML  
+- 🎨 CSS  
+- ⚡ JavaScript  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌍 Portfolio  
+Check out my work here: [4rezki.xyz](https://4rezki.xyz)  
+
+## 📬 Contact  
+📧 Email: [contact@4rezki.xyz](mailto:contact@4rezki.xyz)  
+
+---
+
+⭐️ *Always learning, always building.*

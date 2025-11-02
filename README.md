@@ -5,7 +5,8 @@
 ## 💻 Languages & Skills
 - 🌐 HTML  
 - 🎨 CSS  
-- ⚡ JavaScript  
+- ⚡ JavaScript
+- ⚡ React
 
 ---
 
